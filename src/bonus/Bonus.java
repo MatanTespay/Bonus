@@ -7,7 +7,7 @@ package bonus;
 
 /**
  *
- * @author Matan
+ * @author asus
  */
 public class Bonus {
 
@@ -16,7 +16,7 @@ public class Bonus {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //test it again !!!!!
+        //bla to you to 
     }
     
 }
